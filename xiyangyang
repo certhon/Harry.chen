@@ -1,12 +1,211 @@
-10.24
-certhon1 : 700
-certhon2 : 550
-certhon3 : 1800
-certhon4 : 2100;
-certhon5 : 等待收款 目前:1600;
-certhon6 : 等待收款 目前:1600;
-certhon7 : 100
-certhon8 :
-Certhon9 :
-Harry1 :
-Harry4 :
+{
+	"rtn_tip": "",
+	"rtn_msg": "",
+	"rtn_ftype": "0",
+	"rtn_ext": "操作成功",
+	"data": {
+		"result": {
+			"orderInfo": {
+				"superFee": 0,
+				"sxzzWeight": 0.000,
+				"venderId": 653003,
+				"customerEmail": "",
+				"orderWareInfos": [{
+					"jingDouNum": 0,
+					"weight": 3.0,
+					"stockName": "现货",
+					"extTagMapWare": {
+						"v": "0",
+						"skuUuid": "10_0_653003_12300477298_1_0",
+						"YBForCenter": "[]",
+						"EDIskuExtParam": "00000000000000000000",
+						"isJX": "0",
+						"goodstype": "1",
+						"sku-Tags": "[14]"
+					},
+					"state": 1,
+					"discountPrice": 0.00,
+					"singleShouldPrice": 59.00,
+					"bulk": 8000.0,
+					"cid": 13571,
+					"size": "2.5kg",
+					"productId": 12300477298,
+					"memberPlus": 0,
+					"num": 1,
+					"stock": 5,
+					"price": 59.00,
+					"shopName": "昆山文卓电子商务有限公司",
+					"shopId": 653003,
+					"jiFen": 0,
+					"imgPath": "http://img10.360buyimg.com/n1/s100x100_jfs/t4549/192/3960271910/76834/a187cd89/590ae60fN8e9f18de.jpg",
+					"name": "新鲜野生青梅 高山野生酸梅果  水果 2.5kg",
+					"mainProductId": 0
+				}],
+				"idShipmentType": 70,
+				"sendPay": "00000000900000000000000002001000030000100001000000600000000035030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000002000000000000100020000000000",
+				"city": 2065,
+				"zzWeight": 0.000,
+				"shouldPay": 59.00,
+				"normalFee": 0,
+				"trueTotalFee": 0.00,
+				"presaleOrderDetailInfo": {
+					"balanceStartTimePlan": 1524394440000,
+					"allPayReal": 0,
+					"expAmount": 0,
+					"showCancelTime": false,
+					"orderPayType": 2,
+					"payBalancePlan": 58.00,
+					"balanceEndTimePlan": 1524653640000,
+					"hidePrice": false,
+					"shipTime": 1525780440000,
+					"orderTime": 1522418421000,
+					"hideRealPrice": false,
+					"preSaleOrderStatus": 1001,
+					"payBargainPlan": 1.00
+				},
+				"province": 22,
+				"yunfeixian": 0,
+				"extTagMap": {
+					"aerfaTime": "{\"apt\":[{\"venderId\":653003,\"codDate\":null,\"batch\":null,\"codTime\":\"3\",\"carrier\":\"[]\",\"idSopShipmentType\":67,\"offset\":0,\"batchId\":0,\"menDianId\":0,\"stationId\":0,\"halfReceive\":0}],\"dpt\":[]}",
+					"venderHonorInfo": "{\"653003\":\"0\"}",
+					"newInvoiceVersion": "1",
+					"riskUser": "false",
+					"add_lat": "30.29222",
+					"shopIdFlags": "[]",
+					"splitGiftRelation": "2",
+					"isDefaultAddress": "1",
+					"plusUserFlag": "3300000000000000000000000000000000000000000000000003000000000000000000000000000000000000000000000000",
+					"eid": "eidA42910115ODY0NTU1MDM2NzUyMTkyMA==02flHu9QlqGZ+pBj3+xDqyt4WUwTlvNQGAjyXx0hhW8ET8K5hjmocf1ANuX2KnJ4KMmpgY4H1dn1u0GK",
+					"forceBotTag": "000",
+					"add_lng": "104.29512",
+					"AutoShowCancelTime": "1800",
+					"riskPre": "-1",
+					"add_tag": "0",
+					"SendPayDict": "33:3|38:1|172:2|8:9|43:1|196:0|199:0|50:6|185:1|189:2|25:2|63:3|61:5|60:3",
+					"carValueAddedService": "{\"serviceInfoList\":[]}"
+				},
+				"virtualPaymentType": 4,
+				"orderStatusInfo": {
+					"state2": 9,
+					"printx": 1,
+					"orderState": 1,
+					"state": 5,
+					"yn": 1,
+					"ziti": 0,
+					"orderId": "73703671648"
+				},
+				"orderType": 22,
+				"codTimeType": 1,
+				"guangSuDa": false,
+				"landingMatchFee": 0,
+				"reBuyUrl": "http://cart.jd.com/cart/dynamic/reBuyForOrderCenter.action?wids=12300477298&nums=1&rid=1522418684503",
+				"discount": 0.00,
+				"usedBalance": 0.00,
+				"overWeightFee": 0,
+				"totalFee": 0.00,
+				"price": 59.00,
+				"county": 44342,
+				"installmentInfo": {
+					"insQishu": 0,
+					"insPriceAdd": 0.00,
+					"periodicPayment": 0.00,
+					"installmentBankId": 0
+				},
+				"orderShowInfo": {},
+				"gisKey": "5C533FD270B97AFBFD9C86528A9AFA1082EA4DCA46B514FAA61D2B4C916DD45798E84AFDDDE32FC9DB50EE07FE9AFD561956AE069F73948C9E1FD56FC3CACDA3",
+				"orderOperateVo": {
+					"canPrint": true,
+					"canCancel": true,
+					"canViewTrack": true,
+					"canComment": false,
+					"canDelete": false,
+					"canPay": true,
+					"canConfirm": false,
+					"orderId": 73703671648,
+					"canCreateInvoice": false,
+					"canRepair": false,
+					"canReBuy": false
+				},
+				"lpkOrderExtInfo": {
+					"showGiftOrderPriceFlag": false
+				},
+				"storeId": 0,
+				"mobile": "13122361650",
+				"discountMobile": 0.00,
+				"splitType": 0,
+				"discountCoupon": 0,
+				"dateSubmit": 1522418421000,
+				"idCompanyBranch": 4,
+				"id": "73703671648",
+				"jifenCount": 0,
+				"parentId": 0,
+				"freightInfo": [{
+					"num": 0,
+					"wid": 0,
+					"needFee": 0,
+					"vendorId": 0,
+					"type": 1
+				}],
+				"idTown": 45150,
+				"shipTime": 0,
+				"rePrice": 0.00,
+				"invoiceInfo": {
+					"idInvoiceType": "1",
+					"expectPickTime": "2018-03-30",
+					"idInvoiceTypeName": "普通发票",
+					"idInvoiceContentName": "商品明细",
+					"idInvoiceState": 0,
+					"invoiceTitle": "个人",
+					"idInvoiceContentsType": 1
+				},
+				"userTruePay": 59.00,
+				"yuShou": true,
+				"customerName": "哈哈哈哈",
+				"isJdShip": true,
+				"orderBussinessInfo": {
+					"wareIds": "12300477298",
+					"splitType": 0,
+					"skuIds": [],
+					"deliveryTypeName": "只工作日送货（双休日、假日不用送）",
+					"linkUrl": 0,
+					"paymentSign": "Prepay",
+					"shipmentTypeName": "普通快递",
+					"presentCoupon": 0,
+					"isPopOrder": 1,
+					"paymentTypeName": "在线支付",
+					"bussinessStatusName": "状态：<span class=\"ftx14\">等待付款</span>&nbsp;&nbsp;<span id=\"pay-button-73703671648\"><a target=\"_blank\" href=\"http://pay.jd.com/payment/bankChoose_Common.action?id=73703671648&total=59.00&companyid=4&OrderType=22&key=5C533FD270B97AFBD9F588A9BF6D6E5550BE985B6EF76B4C\"><img src=\"http://misc.360buyimg.com/jd2008/201010/skin/i/btn_pay.gif\" width=\"46\" height=\"25\" style='display:inline;'/></a></span>",
+					"bussinessStatusMsg": "\n            尊敬的客户，我们还未收到该订单的款项，请您尽快付款（<span class=\"flk13\"><a target=\"_blank\" title=\"在线支付帮助\" href=\"http://www.360buy.com/help/onlinepay.aspx\">在线支付帮助</a></span>），如果您已经付款，请务必填写<span class=\"flk13\"><a title=\"确认付款\" id=\"settle\" href=\"#\">付款确认</a></span>。<br />该订单会为您保留24小时（从下单之日算起），24小时之后如果还未付款，系统将自动取消该订单。\n            ",
+					"bussinessStatusBar": "\n            <div id=\"process\" class=\"section4\">\n\t\t            <div class=\"node fore ready\"><ul><li class=\"tx1\">&nbsp;</li><li class=\"tx2\">提交订单</li><li id=\"track_time_0\" class=\"tx3\"></li></ul></div>\n            \t\t<div class=\"proce ready\"><ul><li class=\"tx1\">&nbsp;</li></ul></div>\n            \t\t<div class=\"node ready\"><ul><li class=\"tx1\">&nbsp;</li><li class=\"tx2\">等待付款</li><li class=\"tx3\">&nbsp;</li></ul></div>\n            \t\t<div class=\"proce wait\"><ul><li class=\"tx1\">&nbsp;</li></ul></div>\n            \t\t<div class=\"node wait\"><ul><li class=\"tx1\">&nbsp;</li><li class=\"tx2\">商品出库</li><li class=\"tx3\">&nbsp;</li></ul></div>\n            \t\t<div class=\"proce wait\"><ul><li class=\"tx1\">&nbsp;</li></ul></div>\n            \t\t<div class=\"node wait\"><ul><li class=\"tx1\">&nbsp;</li><li class=\"tx2\">等待收货</li><li class=\"tx3\">&nbsp;</li></ul></div>\t\t\n            \t\t<div class=\"proce wait\"><ul><li class=\"tx1\">&nbsp;</li></ul></div>\t\t\n            \t\t<div class=\"node wait\"><ul><li class=\"tx1\">&nbsp;</li><li class=\"tx2\">完成</li><li class=\"tx3\">&nbsp;</li></ul></div>\n            \t\t</div>\n            ",
+					"stateName": "等待付款",
+					"bussinessStatusOperate": 0,
+					"isFinished": 0,
+					"stockState": 5,
+					"shipTime": 0,
+					"isShowRepair": 0,
+					"bussinessStatusExpend": "00",
+					"hasBigWare": 0
+				},
+				"landingMatchServiceName": {},
+				"idPickSite": 0,
+				"discountLipinka": 0,
+				"idPaymentType": 4,
+				"taxFee": 0,
+				"showGiftOrderPriceFlag": false,
+				"serviceInfo": {},
+				"codDate": "",
+				"pin": "*yhd_LlBSwMZ",
+				"address": "四川资阳市简阳市三岔镇望湖南街道湖半岛酒店",
+				"insSinglePay": 0.00,
+				"showEInvoice": false,
+				"deliverCenterId": 0,
+				"venderName": "新食尚生鲜旗舰店"
+			},
+			"state": 0,
+			"success": true
+		},
+		"serviceResultMsg": "myyhd service success",
+		"serviceResult": "SUCCESS"
+	},
+	"rtn_code": "0",
+	"clientIp": "101.83.180.172"
+}
