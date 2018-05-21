@@ -1,0 +1,2 @@
+A电脑： python -m SimpleHTTPServer
+B电脑：使用http://A电脑ip：端口号  
