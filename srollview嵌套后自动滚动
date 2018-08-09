@@ -1,0 +1,1 @@
+在ScrollView的子viewGroup中增加android:descendantFocusability=”blocksDescendants”属性能阻止ScrollView的自动滑动
